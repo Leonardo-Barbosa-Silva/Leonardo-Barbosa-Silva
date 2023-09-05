@@ -33,3 +33,5 @@
 ![MUI](https://img.shields.io/badge/MUI-0D1117?style=for-the-badge&logo=mui&logoColor=230081CB)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=234ea94b)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=2300f)&nbsp;
+![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=23F24E1E)&nbsp;
+![Threejs](https://img.shields.io/badge/three.js-0D1117?style=for-the-badge&logo=three.js&logoColor=white)

@@ -26,9 +26,9 @@
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=%231572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=hotpink.svg)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=2338B2AC)&nbsp;
+![Tailwind](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=2338B2AC)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Redux](https://img.shields.io/badge/redux-0D1117?style=for-the-badge&logo=redux&logoColor=%23593d88)&nbsp;
 ![MUI](https://img.shields.io/badge/MUI-0D1117?style=for-the-badge&logo=mui&logoColor=230081CB)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=234ea94b)&nbsp;
